@@ -1,2 +1,2 @@
 # Project_Plan_Capstone-new-
-Mnegisi Project Plan
+Mengisi Checklist Tech Stack bagian Gen AI
